@@ -9,7 +9,7 @@ const ObjectService = require("@operandinc/sdk").ObjectService;
 // Open AI Configuration
 const configuration = new Configuration({
   organization:"org-1p7GvlWXr8d3WA4Lmizx01Xs",
-  apiKey:"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",
+  apiKey:"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",
 });
 const openai = new OpenAIApi(configuration);
 
